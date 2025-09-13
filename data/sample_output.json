@@ -1,0 +1,21 @@
+[
+    {
+      "title": "Software Engineer, Backend",
+      "department": "Engineering",
+      "location": "San Francisco, CA (Hybrid)",
+      "date": "2025-09-01",
+      "url": "https://boards.greenhouse.io/example/jobs/12345",
+      "source": "greenhouse",
+      "company": "ExampleCo"
+    },
+    {
+      "title": "Recruiting Coordinator",
+      "department": "People",
+      "location": "Remote - US",
+      "date": "2025-08-22",
+      "url": "https://jobs.lever.co/example/abcdef",
+      "source": "lever",
+      "company": "ExampleCo"
+    }
+  ]
+  
