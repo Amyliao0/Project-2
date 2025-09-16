@@ -5,7 +5,6 @@ These are the main prompts I used while developing the Greenhouse-only scraper w
 
 - "Write a Python scraper for Greenhouse job boards using requests + JSON API."
 - "Add retry logic with exponential backoff and a custom user agent string."
-- "Include a CSV catalog where I can filter startups by industry (ai, fintech, health, etc.)."
 - "Fix: my scraper is returning 0 items even when the Greenhouse board has open jobs."
 - "Explain what Greenhouse is and why startups use it."
 
