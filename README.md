@@ -93,14 +93,10 @@ The scraper currently supports startups in the following industries (via `data/s
 - Security  
 - Automotive  
 - Education  
-- Finance  
-- Real Estate  
-- Entertainment  
+- Finance    
 - eCommerce  
-- Retail  
-- Hospitality  
 
-👉 To add more industries, simply update `data/startups.csv` with new rows in the format:
+👉 To add more industries, simply update `data/startups.csv` with new rows!
 
 
 
