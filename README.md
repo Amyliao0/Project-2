@@ -1,40 +1,85 @@
-# Startup Hiring Radar
+# 📊 Startup Hiring Trends Radar
 
-A minimal, **respectful** web scraper that aggregates open job roles from startup career pages (e.g., Greenhouse, Lever, Ashby, Workday) and produces a normalized JSON for downstream analysis.
+## 📌 Executive Summary
+This project builds a **web scraper for startup career pages** (currently focused on companies using **Greenhouse** as their applicant tracking system).  
+The motivation is to provide a **Hiring Trends Radar** that delivers insights for **investors, recruiters, and educators**:
+- Which startups are actively hiring
+- Industry-specific growth signals
+- Data-driven patterns on job roles, locations, and hiring velocity  
 
-> Built to align with the course requirements: data quality assurance, respectful scraping (exponential backoff + retry limits), and business logic transformations.
+The scraper is **not production-grade** but demonstrates:
+- API-first respectful scraping
+- Data validation & transformation
+- Ethical + legal considerations in web scraping  
 
-## Quickstart
+---
 
+## 🏗 Technical Architecture
+
+```mermaid
+flowchart TD
+    A[User Input] -->|--urls OR --industry| B{scraper.py CLI}
+    B -->|if --industry| C[Load catalog data/startups.csv]
+    C --> D[Filter URLs by industry]
+    B -->|if --urls| D
+    D --> E[De-duplicate URLs]
+    E --> F[Extract Greenhouse slug]
+
+    subgraph Scrape & Process
+        F --> G[Call Greenhouse API boards-api.greenhouse.io]
+        G -->|JSON jobs| H[Transformers.py normalize fields]
+        H --> I[Validators.py validate_record]
+        I -->|valid| J[Append to in-memory list]
+        I -->|invalid| K[Console logs invalid reasons]
+    end
+
+    J --> L[Write JSON data/output.json]
+    K --> L
+```
+
+## ⚙️ Setup & Deployment
+
+### 1. Clone the Repository
 ```bash
-python -m venv .venv && source .venv/bin/activate  # on macOS/Linux
+git clone https://github.com/Amyliao0/Project-2.git
+cd Project-2
+```
+
+### 2. Create & Activate Virtual Environment
+```bash
+python3 -m venv .venv
+source .venv/bin/activate   # Mac/Linux
+.venv\Scripts\activate      # Windows PowerShell
+```
+
+### 3. Install Dependencies
+```bash
 pip install -r requirements.txt
-
-# Example: scrape a couple of known Greenhouse/Lever pages
-python src/scraper.py --urls https://boards.greenhouse.io/openai                        https://jobs.lever.co/Notion
-# Output will be written to data/output.json
 ```
 
-## Repo Structure
-```
-project-name/
-├── src/
-│   ├── scraper.py          # Main scraping logic
-│   ├── validators.py       # Data validation rules
-│   ├── transformers.py     # Data transformation pipeline
-├── docs/
-│   ├── BUSINESS_CASE.md    # Market analysis and pricing
-│   ├── ETHICS.md           # Detailed ethical analysis
-│   ├── ARCHITECTURE.md     # Technical design decisions
-│   ├── AI_USAGE.md         # AI collaboration documentation
-├── data/
-│   └── sample_output.json  # Example of processed data
-├── requirements.txt
-├── README.md
-└── .gitignore
+### 4. Run the Scraper
+```bash
+Option A – Scrape by URL(s)
+python src/scraper.py --urls https://boards.greenhouse.io/keebo --out data/output.json
+
+Option B – Scrape by Industry (using catalog)
+python src/scraper.py --industry ai --catalog data/startups.csv --out data/ai_jobs.json
+
 ```
 
-## Notes
-- Always check `robots.txt` for each domain before scraping.
-- This project intentionally **skips** JS-heavy sites for the MVP.
-- You can extend `src/scraper.py` with new extractors for additional ATS patterns.
+## 5. Output
+
+### JSON file is written to data/ (e.g. data/output.json, data/ai_jobs.json)
+
+Each record contains:
+
+- title → job title
+
+- location → job location
+
+- date → posting or update date
+
+- url → application link
+
+- company → startup name
+
