@@ -13,7 +13,7 @@ These are the main prompts I used while developing the Greenhouse-only scraper w
 ## 2. Code Attribution: AI vs Human
 
 **AI-generated (initial draft):**
-- Base Greenhouse API extraction function (`extract_greenhouse_api`).
+- 'extract_greenhouse_api' function for Greenhouse API extraction
 - Retry logic with `tenacity`.
 - Initial `main()` loop writing out to `data/output.json`.
 - Boilerplate argparse setup for `--urls` and `--out`.
@@ -21,8 +21,7 @@ These are the main prompts I used while developing the Greenhouse-only scraper w
 **Human-written (my contributions):**
 - Added `catalog.py` logic directly into the scraper (`load_catalog`, `urls_for_industry`).
 - Integrated the `--industry` flag so I can scrape by industry instead of hardcoding URLs.
-- Cleaned up de-duplication of URLs from catalog and command line.
-- Verified with real startup Greenhouse boards (e.g. Anthropic, Docugami, Keebo).
+- Implemented URL de-duplication across catalog and command line inputs
 - Adjusted the code to simplify around **only Greenhouse**, removing Lever/Ashby/Workday paths.
 
 ---
