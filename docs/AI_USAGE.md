@@ -23,7 +23,10 @@ These are the main prompts I used while developing the Greenhouse-only scraper w
 - Integrated the `--industry` flag so I can scrape by industry instead of hardcoding URLs.
 - Implemented URL de-duplication across catalog and command line inputs
 - Adjusted the code to simplify around **only Greenhouse**, removing Lever/Ashby/Workday paths.
-
+- Integrated validation (`validators.validate_record`) and transformation (`transformers.transform`) into the pipeline
+- Added --catalog argument with default (`data/startups.csv`)
+- Cleaned up robots.txt handling ('can_fetch') and added optional `--ignore-robots` flag
+- Structured output with normalized fields (`title, location, date, url, company`)
 ---
 
 ## 3. Bugs Found in AI Suggestions (and Fixes)
