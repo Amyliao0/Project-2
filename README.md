@@ -83,3 +83,24 @@ Each record contains:
 
 - company → startup name
 
+  ## 🌍 Supported Industries
+
+The scraper currently supports startups in the following industries (via `data/startups.csv`):
+
+- AI  
+- Fintech  
+- Health  
+- Security  
+- Automotive  
+- Education  
+- Finance  
+- Real Estate  
+- Entertainment  
+- eCommerce  
+- Retail  
+- Hospitality  
+
+👉 To add more industries, simply update `data/startups.csv` with new rows in the format:
+
+
+
