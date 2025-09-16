@@ -13,7 +13,7 @@ These are the main prompts I used while developing the Greenhouse-only scraper w
 ## 2. Code Attribution: AI vs Human
 
 **AI-generated (initial draft):**
-- 'extract_greenhouse_api' function for Greenhouse API extraction
+- `extract_greenhouse_api` function for Greenhouse API extraction
 - Retry logic with `tenacity`.
 - Initial `main()` loop writing out to `data/output.json`.
 - Boilerplate argparse setup for `--urls` and `--out`.
