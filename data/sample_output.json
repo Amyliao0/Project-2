@@ -1,21 +1,2357 @@
 [
-    {
-      "title": "Software Engineer, Backend",
-      "department": "Engineering",
-      "location": "San Francisco, CA (Hybrid)",
-      "date": "2025-09-01",
-      "url": "https://boards.greenhouse.io/example/jobs/12345",
-      "source": "greenhouse",
-      "company": "ExampleCo"
-    },
-    {
-      "title": "Recruiting Coordinator",
-      "department": "People",
-      "location": "Remote - US",
-      "date": "2025-08-22",
-      "url": "https://jobs.lever.co/example/abcdef",
-      "source": "lever",
-      "company": "ExampleCo"
-    }
-  ]
-  
+  {
+    "title": "Account Executive",
+    "location": "Remote - USA",
+    "date": "2025-07-25",
+    "url": "https://job-boards.greenhouse.io/devrev/jobs/5555365004",
+    "source": "greenhouse",
+    "company": "Devrev"
+  },
+  {
+    "title": "Account Executive",
+    "location": "London- UK",
+    "date": "2025-09-10",
+    "url": "https://job-boards.greenhouse.io/devrev/jobs/5646328004",
+    "source": "greenhouse",
+    "company": "Devrev"
+  },
+  {
+    "title": "Account Executive - Enterprise (NorCal, WA, TX)",
+    "location": "Remote - USA",
+    "date": "2025-07-24",
+    "url": "https://job-boards.greenhouse.io/devrev/jobs/5529757004",
+    "source": "greenhouse",
+    "company": "Devrev"
+  },
+  {
+    "title": "Account Executive - Mid Market",
+    "location": "Delhi NCR",
+    "date": "2025-09-15",
+    "url": "https://job-boards.greenhouse.io/devrev/jobs/5648777004",
+    "source": "greenhouse",
+    "company": "Devrev"
+  },
+  {
+    "title": "Account Executive - Mid Market",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2025-09-15",
+    "url": "https://job-boards.greenhouse.io/devrev/jobs/5650166004",
+    "source": "greenhouse",
+    "company": "Devrev"
+  },
+  {
+    "title": "Account Executive- Mid Market",
+    "location": "Mumbai, Maharashtra, India",
+    "date": "2025-09-15",
+    "url": "https://job-boards.greenhouse.io/devrev/jobs/5578063004",
+    "source": "greenhouse",
+    "company": "Devrev"
+  },
+  {
+    "title": "Account Executive - Startups",
+    "location": "Buenos Aires, Argentina",
+    "date": "2025-08-06",
+    "url": "https://job-boards.greenhouse.io/devrev/jobs/5611801004",
+    "source": "greenhouse",
+    "company": "Devrev"
+  },
+  {
+    "title": "APJ Partners & Alliance Leader",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2025-07-24",
+    "url": "https://job-boards.greenhouse.io/devrev/jobs/5575540004",
+    "source": "greenhouse",
+    "company": "Devrev"
+  },
+  {
+    "title": "Applied AI- Echo",
+    "location": "Remote - Ireland ; Remote - UK",
+    "date": "2025-08-14",
+    "url": "https://job-boards.greenhouse.io/devrev/jobs/5587980004",
+    "source": "greenhouse",
+    "company": "Devrev"
+  },
+  {
+    "title": "Applied AI Engineer - Internship",
+    "department": "Engineering",
+    "location": "Buenos Aires, Argentina",
+    "date": "2025-07-24",
+    "url": "https://job-boards.greenhouse.io/devrev/jobs/5594577004",
+    "source": "greenhouse",
+    "company": "Devrev"
+  },
+  {
+    "title": "Applied AI Support Engineer- SME",
+    "department": "Engineering",
+    "location": "Chennai, Tamil Nadu, India",
+    "date": "2025-09-15",
+    "url": "https://job-boards.greenhouse.io/devrev/jobs/5635036004",
+    "source": "greenhouse",
+    "company": "Devrev"
+  },
+  {
+    "title": "Applied AI - Technical Support Lead",
+    "location": "Buenos Aires, Argentina",
+    "date": "2025-08-24",
+    "url": "https://job-boards.greenhouse.io/devrev/jobs/5599867004",
+    "source": "greenhouse",
+    "company": "Devrev"
+  },
+  {
+    "title": "Associate- Corporate Finance",
+    "location": "Palo Alto, California, United States",
+    "date": "2025-07-24",
+    "url": "https://job-boards.greenhouse.io/devrev/jobs/5583492004",
+    "source": "greenhouse",
+    "company": "Devrev"
+  },
+  {
+    "title": "Customer Success Manager",
+    "location": "Japan",
+    "date": "2025-09-01",
+    "url": "https://job-boards.greenhouse.io/devrev/jobs/5631666004",
+    "source": "greenhouse",
+    "company": "Devrev"
+  },
+  {
+    "title": "Customer Success Manager",
+    "location": "London- UK",
+    "date": "2025-07-24",
+    "url": "https://job-boards.greenhouse.io/devrev/jobs/5578306004",
+    "source": "greenhouse",
+    "company": "Devrev"
+  },
+  {
+    "title": "Customer Success Manager",
+    "location": "Buenos Aires, Argentina",
+    "date": "2025-07-24",
+    "url": "https://job-boards.greenhouse.io/devrev/jobs/5534476004",
+    "source": "greenhouse",
+    "company": "Devrev"
+  },
+  {
+    "title": "Customer Success Manager",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2025-08-21",
+    "url": "https://job-boards.greenhouse.io/devrev/jobs/5535300004",
+    "source": "greenhouse",
+    "company": "Devrev"
+  },
+  {
+    "title": "Customer Support Engineering",
+    "department": "Engineering",
+    "location": "Remote - Philippines",
+    "date": "2025-09-10",
+    "url": "https://job-boards.greenhouse.io/devrev/jobs/5646726004",
+    "source": "greenhouse",
+    "company": "Devrev"
+  },
+  {
+    "title": "Data Analyst",
+    "department": "Engineering",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2025-09-09",
+    "url": "https://job-boards.greenhouse.io/devrev/jobs/5646317004",
+    "source": "greenhouse",
+    "company": "Devrev"
+  },
+  {
+    "title": "Data Engineer",
+    "department": "Engineering",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2025-09-15",
+    "url": "https://job-boards.greenhouse.io/devrev/jobs/5648842004",
+    "source": "greenhouse",
+    "company": "Devrev"
+  },
+  {
+    "title": "Designer - Brand, Marketing & Web",
+    "department": "Marketing",
+    "location": "London- UK",
+    "date": "2025-09-11",
+    "url": "https://job-boards.greenhouse.io/devrev/jobs/5471693004",
+    "source": "greenhouse",
+    "company": "Devrev"
+  },
+  {
+    "title": "Forward Deployed Architect",
+    "location": "Remote - USA",
+    "date": "2025-07-25",
+    "url": "https://job-boards.greenhouse.io/devrev/jobs/5528192004",
+    "source": "greenhouse",
+    "company": "Devrev"
+  },
+  {
+    "title": "Forward Deployed Engineer",
+    "department": "Engineering",
+    "location": "Austin, Texas, United States; Palo Alto, California, United States",
+    "date": "2025-08-16",
+    "url": "https://job-boards.greenhouse.io/devrev/jobs/5554325004",
+    "source": "greenhouse",
+    "company": "Devrev"
+  },
+  {
+    "title": "Global Compensation & Rewards  Business Partner",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2025-09-02",
+    "url": "https://job-boards.greenhouse.io/devrev/jobs/5574403004",
+    "source": "greenhouse",
+    "company": "Devrev"
+  },
+  {
+    "title": "GTM Finance Manager- FP&A",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2025-07-24",
+    "url": "https://job-boards.greenhouse.io/devrev/jobs/5484213004",
+    "source": "greenhouse",
+    "company": "Devrev"
+  },
+  {
+    "title": "GTM Finance Manager- FP&A",
+    "location": "Remote - UK",
+    "date": "2025-09-08",
+    "url": "https://job-boards.greenhouse.io/devrev/jobs/5564119004",
+    "source": "greenhouse",
+    "company": "Devrev"
+  },
+  {
+    "title": "Head of Customer Success",
+    "location": "Palo Alto, California, United States",
+    "date": "2025-08-22",
+    "url": "https://job-boards.greenhouse.io/devrev/jobs/5619327004",
+    "source": "greenhouse",
+    "company": "Devrev"
+  },
+  {
+    "title": "Illustrator",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2025-09-01",
+    "url": "https://job-boards.greenhouse.io/devrev/jobs/5636216004",
+    "source": "greenhouse",
+    "company": "Devrev"
+  },
+  {
+    "title": "Intern: Design (Brand Marketing)",
+    "department": "Marketing",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2025-09-15",
+    "url": "https://job-boards.greenhouse.io/devrev/jobs/5650296004",
+    "source": "greenhouse",
+    "company": "Devrev"
+  },
+  {
+    "title": "INTERN:  Talent Acquisition",
+    "department": "People/HR",
+    "location": "Buenos Aires, Argentina",
+    "date": "2025-07-24",
+    "url": "https://job-boards.greenhouse.io/devrev/jobs/5585980004",
+    "source": "greenhouse",
+    "company": "Devrev"
+  },
+  {
+    "title": "Marketing Designer, Digital & Print - Bengaluru",
+    "department": "Marketing",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2025-09-01",
+    "url": "https://job-boards.greenhouse.io/devrev/jobs/5636218004",
+    "source": "greenhouse",
+    "company": "Devrev"
+  },
+  {
+    "title": "Member of Technical Staff",
+    "location": "London- UK",
+    "date": "2025-09-01",
+    "url": "https://job-boards.greenhouse.io/devrev/jobs/5636842004",
+    "source": "greenhouse",
+    "company": "Devrev"
+  },
+  {
+    "title": "Member of Technical Staff",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2025-07-24",
+    "url": "https://job-boards.greenhouse.io/devrev/jobs/5563412004",
+    "source": "greenhouse",
+    "company": "Devrev"
+  },
+  {
+    "title": "Member of Technical Staff",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2025-09-12",
+    "url": "https://job-boards.greenhouse.io/devrev/jobs/5612155004",
+    "source": "greenhouse",
+    "company": "Devrev"
+  },
+  {
+    "title": "Member of Technical Staff: AI  Performance",
+    "location": "Remote - Philippines",
+    "date": "2025-09-09",
+    "url": "https://job-boards.greenhouse.io/devrev/jobs/5645222004",
+    "source": "greenhouse",
+    "company": "Devrev"
+  },
+  {
+    "title": "Member of Technical Staff: Dev Extension",
+    "location": "Chennai, Tamil Nadu, India",
+    "date": "2025-09-12",
+    "url": "https://job-boards.greenhouse.io/devrev/jobs/5630643004",
+    "source": "greenhouse",
+    "company": "Devrev"
+  },
+  {
+    "title": "Member of Technical Staff: Front-End",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2025-07-24",
+    "url": "https://job-boards.greenhouse.io/devrev/jobs/5589069004",
+    "source": "greenhouse",
+    "company": "Devrev"
+  },
+  {
+    "title": "Member of Technical Staff: Front-End",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2025-09-04",
+    "url": "https://job-boards.greenhouse.io/devrev/jobs/5639769004",
+    "source": "greenhouse",
+    "company": "Devrev"
+  },
+  {
+    "title": "Member of Technical Staff: Front-End",
+    "location": "Chennai, Tamil Nadu, India",
+    "date": "2025-07-24",
+    "url": "https://job-boards.greenhouse.io/devrev/jobs/5593704004",
+    "source": "greenhouse",
+    "company": "Devrev"
+  },
+  {
+    "title": "Member of Technical Staff \u2013 Search & AI",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2025-07-27",
+    "url": "https://job-boards.greenhouse.io/devrev/jobs/5594928004",
+    "source": "greenhouse",
+    "company": "Devrev"
+  },
+  {
+    "title": "Member of Technical Staff \u2013 Search & AI",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2025-09-10",
+    "url": "https://job-boards.greenhouse.io/devrev/jobs/5646551004",
+    "source": "greenhouse",
+    "company": "Devrev"
+  },
+  {
+    "title": "NCG - Member of Design Staff (Brand Marketing)",
+    "department": "Marketing",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2025-09-10",
+    "url": "https://job-boards.greenhouse.io/devrev/jobs/5646760004",
+    "source": "greenhouse",
+    "company": "Devrev"
+  },
+  {
+    "title": "Partner Solutions Engineer",
+    "department": "Engineering",
+    "location": "Singapore",
+    "date": "2025-09-12",
+    "url": "https://job-boards.greenhouse.io/devrev/jobs/5563510004",
+    "source": "greenhouse",
+    "company": "Devrev"
+  },
+  {
+    "title": "Partner Solutions Engineer",
+    "department": "Engineering",
+    "location": "Austin, Texas, United States",
+    "date": "2025-08-26",
+    "url": "https://job-boards.greenhouse.io/devrev/jobs/5624097004",
+    "source": "greenhouse",
+    "company": "Devrev"
+  },
+  {
+    "title": "Partner Success Manager",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2025-09-02",
+    "url": "https://job-boards.greenhouse.io/devrev/jobs/5636911004",
+    "source": "greenhouse",
+    "company": "Devrev"
+  },
+  {
+    "title": "Recruiter (GTM & Technical Functions)",
+    "department": "People/HR",
+    "location": "Ljubljana, Ljubljana, Slovenia",
+    "date": "2025-07-24",
+    "url": "https://job-boards.greenhouse.io/devrev/jobs/5591523004",
+    "source": "greenhouse",
+    "company": "Devrev"
+  },
+  {
+    "title": "Regional Channel Sales Manager",
+    "location": "Remote - USA",
+    "date": "2025-09-11",
+    "url": "https://job-boards.greenhouse.io/devrev/jobs/5621859004",
+    "source": "greenhouse",
+    "company": "Devrev"
+  },
+  {
+    "title": "Revenue: Sales Development Representative",
+    "department": "Product",
+    "location": "Buenos Aires, Argentina",
+    "date": "2025-07-24",
+    "url": "https://job-boards.greenhouse.io/devrev/jobs/5469566004",
+    "source": "greenhouse",
+    "company": "Devrev"
+  },
+  {
+    "title": "Sales Development Representative",
+    "department": "Product",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2025-08-07",
+    "url": "https://job-boards.greenhouse.io/devrev/jobs/5189806004",
+    "source": "greenhouse",
+    "company": "Devrev"
+  },
+  {
+    "title": "Senior Member of Technical Staff : Front-End",
+    "location": "Chennai, Tamil Nadu, India",
+    "date": "2025-07-24",
+    "url": "https://job-boards.greenhouse.io/devrev/jobs/5593705004",
+    "source": "greenhouse",
+    "company": "Devrev"
+  },
+  {
+    "title": "Senior Member of Technical Staff: Front-End",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2025-08-31",
+    "url": "https://job-boards.greenhouse.io/devrev/jobs/5636211004",
+    "source": "greenhouse",
+    "company": "Devrev"
+  },
+  {
+    "title": "Senior Product Marketing Manager",
+    "department": "Marketing",
+    "location": "London- UK",
+    "date": "2025-08-14",
+    "url": "https://job-boards.greenhouse.io/devrev/jobs/5473788004",
+    "source": "greenhouse",
+    "company": "Devrev"
+  },
+  {
+    "title": "Senior Product Marketing Manager",
+    "department": "Marketing",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2025-09-11",
+    "url": "https://job-boards.greenhouse.io/devrev/jobs/5647753004",
+    "source": "greenhouse",
+    "company": "Devrev"
+  },
+  {
+    "title": "Senior Sales Engineer",
+    "department": "Engineering",
+    "location": "Austin, Texas, United States; Palo Alto, California, United States; Remote - USA",
+    "date": "2025-09-15",
+    "url": "https://job-boards.greenhouse.io/devrev/jobs/5646861004",
+    "source": "greenhouse",
+    "company": "Devrev"
+  },
+  {
+    "title": "Senior Test Automation Specialist",
+    "location": "Remote - Philippines",
+    "date": "2025-09-11",
+    "url": "https://job-boards.greenhouse.io/devrev/jobs/5617219004",
+    "source": "greenhouse",
+    "company": "Devrev"
+  },
+  {
+    "title": "Senior Test Automation Specialist",
+    "location": "Remote - Philippines",
+    "date": "2025-09-10",
+    "url": "https://job-boards.greenhouse.io/devrev/jobs/5617217004",
+    "source": "greenhouse",
+    "company": "Devrev"
+  },
+  {
+    "title": "Software Developer: JavaScript Full Stack Development",
+    "department": "Engineering",
+    "location": "Ljubljana, Ljubljana, Slovenia",
+    "date": "2025-07-29",
+    "url": "https://job-boards.greenhouse.io/devrev/jobs/5528191004",
+    "source": "greenhouse",
+    "company": "Devrev"
+  },
+  {
+    "title": "Software Developer: Systems",
+    "location": "Ljubljana, Ljubljana, Slovenia",
+    "date": "2025-09-10",
+    "url": "https://job-boards.greenhouse.io/devrev/jobs/4018541004",
+    "source": "greenhouse",
+    "company": "Devrev"
+  },
+  {
+    "title": "Software Development: Front-End",
+    "department": "Product",
+    "location": "Ljubljana, Ljubljana, Slovenia",
+    "date": "2025-08-25",
+    "url": "https://job-boards.greenhouse.io/devrev/jobs/5546320004",
+    "source": "greenhouse",
+    "company": "Devrev"
+  },
+  {
+    "title": "Software Engineer - Applied AI Support",
+    "department": "Engineering",
+    "location": "Buenos Aires, Argentina",
+    "date": "2025-07-24",
+    "url": "https://job-boards.greenhouse.io/devrev/jobs/5527906004",
+    "source": "greenhouse",
+    "company": "Devrev"
+  },
+  {
+    "title": "Solutions Engineer - Bengaluru",
+    "department": "Engineering",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2025-09-12",
+    "url": "https://job-boards.greenhouse.io/devrev/jobs/5648776004",
+    "source": "greenhouse",
+    "company": "Devrev"
+  },
+  {
+    "title": "Solutions Engineer - Delhi",
+    "department": "Engineering",
+    "location": "Delhi NCR",
+    "date": "2025-09-11",
+    "url": "https://job-boards.greenhouse.io/devrev/jobs/5341692004",
+    "source": "greenhouse",
+    "company": "Devrev"
+  },
+  {
+    "title": "Solutions Engineer - Mumbai",
+    "department": "Engineering",
+    "location": "Mumbai, Maharashtra, India",
+    "date": "2025-09-11",
+    "url": "https://job-boards.greenhouse.io/devrev/jobs/5459565004",
+    "source": "greenhouse",
+    "company": "Devrev"
+  },
+  {
+    "title": "Startups Account Executive",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2025-08-16",
+    "url": "https://job-boards.greenhouse.io/devrev/jobs/5555958004",
+    "source": "greenhouse",
+    "company": "Devrev"
+  },
+  {
+    "title": "Strategic Operations Manager / Sr. Associate",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2025-07-24",
+    "url": "https://job-boards.greenhouse.io/devrev/jobs/5576360004",
+    "source": "greenhouse",
+    "company": "Devrev"
+  },
+  {
+    "title": "Support - AAI Engineer - Hypercare",
+    "department": "Engineering",
+    "location": "Buenos Aires, Argentina",
+    "date": "2025-07-28",
+    "url": "https://job-boards.greenhouse.io/devrev/jobs/5599854004",
+    "source": "greenhouse",
+    "company": "Devrev"
+  },
+  {
+    "title": "Support - Software Engineer - AAI - (Airdrop)",
+    "department": "Engineering",
+    "location": "Buenos Aires, Argentina",
+    "date": "2025-07-28",
+    "url": "https://job-boards.greenhouse.io/devrev/jobs/5599861004",
+    "source": "greenhouse",
+    "company": "Devrev"
+  },
+  {
+    "title": "Account Executive",
+    "location": "New York City",
+    "date": "2025-09-02",
+    "url": "https://job-boards.greenhouse.io/harmonic/jobs/4293504005",
+    "source": "greenhouse",
+    "company": "Harmonic"
+  },
+  {
+    "title": "Account Manager",
+    "location": "New York City",
+    "date": "2025-09-02",
+    "url": "https://job-boards.greenhouse.io/harmonic/jobs/4407747005",
+    "source": "greenhouse",
+    "company": "Harmonic"
+  },
+  {
+    "title": "Full-Stack AI Product Engineer, Discovery",
+    "department": "Engineering",
+    "location": "New York",
+    "date": "2025-08-12",
+    "url": "https://job-boards.greenhouse.io/harmonic/jobs/4590192005",
+    "source": "greenhouse",
+    "company": "Harmonic"
+  },
+  {
+    "title": "General Application",
+    "location": "Remote",
+    "date": "2025-04-01",
+    "url": "https://job-boards.greenhouse.io/harmonic/jobs/4114048005",
+    "source": "greenhouse",
+    "company": "Harmonic"
+  },
+  {
+    "title": "Lead Technical Recruiter",
+    "department": "People/HR",
+    "location": "New York City",
+    "date": "2025-09-08",
+    "url": "https://job-boards.greenhouse.io/harmonic/jobs/4597244005",
+    "source": "greenhouse",
+    "company": "Harmonic"
+  },
+  {
+    "title": "Senior Software Engineer, Discovery - Data",
+    "department": "Engineering",
+    "location": "New York",
+    "date": "2025-08-12",
+    "url": "https://job-boards.greenhouse.io/harmonic/jobs/4589740005",
+    "source": "greenhouse",
+    "company": "Harmonic"
+  },
+  {
+    "title": "Senior Software Engineer, Discovery - Semantic Search & RAG",
+    "department": "Engineering",
+    "location": "New York",
+    "date": "2025-08-12",
+    "url": "https://job-boards.greenhouse.io/harmonic/jobs/4590189005",
+    "source": "greenhouse",
+    "company": "Harmonic"
+  },
+  {
+    "title": "Senior Software Engineer, Flow",
+    "department": "Engineering",
+    "location": "New York",
+    "date": "2025-08-25",
+    "url": "https://job-boards.greenhouse.io/harmonic/jobs/4558872005",
+    "source": "greenhouse",
+    "company": "Harmonic"
+  },
+  {
+    "title": "Software Engineer (Full-Stack)",
+    "department": "Engineering",
+    "location": "New York",
+    "date": "2025-08-06",
+    "url": "https://job-boards.greenhouse.io/harmonic/jobs/4567656005",
+    "source": "greenhouse",
+    "company": "Harmonic"
+  },
+  {
+    "title": "Software Engineer Intern (Summer '26)",
+    "department": "Engineering",
+    "location": "New York City",
+    "date": "2025-08-06",
+    "url": "https://job-boards.greenhouse.io/harmonic/jobs/4591178005",
+    "source": "greenhouse",
+    "company": "Harmonic"
+  },
+  {
+    "title": "DevOps Engineer (Medell\u00edn)",
+    "department": "Engineering",
+    "location": "Medell\u00edn, Antioquia, Colombia",
+    "date": "2025-09-02",
+    "url": "https://job-boards.greenhouse.io/coactivesystems/jobs/5632677004",
+    "source": "greenhouse",
+    "company": "Coactivesystems"
+  },
+  {
+    "title": "Product Designer",
+    "department": "Product",
+    "location": "San Jose, California, United States",
+    "date": "2025-07-25",
+    "url": "https://job-boards.greenhouse.io/coactivesystems/jobs/5597907004",
+    "source": "greenhouse",
+    "company": "Coactivesystems"
+  },
+  {
+    "title": "Product Manager, AI Products",
+    "department": "Product",
+    "location": "San Jose, California, United States",
+    "date": "2025-08-07",
+    "url": "https://job-boards.greenhouse.io/coactivesystems/jobs/5597714004",
+    "source": "greenhouse",
+    "company": "Coactivesystems"
+  },
+  {
+    "title": "Sales Engineer",
+    "department": "Engineering",
+    "location": "San Jose, California, United States",
+    "date": "2025-05-02",
+    "url": "https://job-boards.greenhouse.io/coactivesystems/jobs/5197516004",
+    "source": "greenhouse",
+    "company": "Coactivesystems"
+  },
+  {
+    "title": "Senior Full Stack Engineer",
+    "department": "Engineering",
+    "location": "San Jose, California, United States",
+    "date": "2025-08-29",
+    "url": "https://job-boards.greenhouse.io/coactivesystems/jobs/5635915004",
+    "source": "greenhouse",
+    "company": "Coactivesystems"
+  },
+  {
+    "title": "Senior Full Stack Engineer",
+    "department": "Engineering",
+    "location": "Montr\u00e9al, Quebec, Canada",
+    "date": "2025-08-29",
+    "url": "https://job-boards.greenhouse.io/coactivesystems/jobs/5635916004",
+    "source": "greenhouse",
+    "company": "Coactivesystems"
+  },
+  {
+    "title": "Senior Full Stack Engineer",
+    "department": "Engineering",
+    "location": "Medell\u00edn, Antioquia, Colombia",
+    "date": "2025-08-30",
+    "url": "https://job-boards.greenhouse.io/coactivesystems/jobs/5636137004",
+    "source": "greenhouse",
+    "company": "Coactivesystems"
+  },
+  {
+    "title": "Customer Success Advocate",
+    "location": "Remote; United States, North America",
+    "date": "2025-08-14",
+    "url": "https://job-boards.greenhouse.io/keebo/jobs/4824680008",
+    "source": "greenhouse",
+    "company": "Keebo"
+  },
+  {
+    "title": "Senior Machine Learning Engineer - Algs",
+    "department": "Engineering",
+    "location": "Canada - Remote, Georgia, EU - Remote, US-Remote",
+    "date": "2025-07-21",
+    "url": "https://job-boards.greenhouse.io/keebo/jobs/4786104008",
+    "source": "greenhouse",
+    "company": "Keebo"
+  },
+  {
+    "title": "Senior Software Engineer - AI/Algs",
+    "department": "Engineering",
+    "location": "Canada - Remote, Georgia, EU - Remote, US-Remote",
+    "date": "2025-06-16",
+    "url": "https://job-boards.greenhouse.io/keebo/jobs/4770626008",
+    "source": "greenhouse",
+    "company": "Keebo"
+  },
+  {
+    "title": "AI Research Scientist",
+    "location": "France",
+    "date": "2025-07-03",
+    "url": "https://job-boards.greenhouse.io/docugami/jobs/6639054003",
+    "source": "greenhouse",
+    "company": "Docugami"
+  },
+  {
+    "title": "Back End Software Engineer",
+    "department": "Engineering",
+    "location": "Kirkland, Washington, United States",
+    "date": "2025-03-07",
+    "url": "https://job-boards.greenhouse.io/docugami/jobs/4016934003",
+    "source": "greenhouse",
+    "company": "Docugami"
+  },
+  {
+    "title": "Data Science Graduate Student Intern",
+    "department": "Engineering",
+    "location": "France",
+    "date": "2025-07-03",
+    "url": "https://job-boards.greenhouse.io/docugami/jobs/6639057003",
+    "source": "greenhouse",
+    "company": "Docugami"
+  },
+  {
+    "title": "Data Science PhD Intern",
+    "department": "Engineering",
+    "location": "Kirkland, Washington, United States",
+    "date": "2025-03-07",
+    "url": "https://job-boards.greenhouse.io/docugami/jobs/4192122003",
+    "source": "greenhouse",
+    "company": "Docugami"
+  },
+  {
+    "title": "Head of Sales",
+    "location": "Kirkland, Washington, United States",
+    "date": "2025-04-09",
+    "url": "https://job-boards.greenhouse.io/docugami/jobs/6503078003",
+    "source": "greenhouse",
+    "company": "Docugami"
+  },
+  {
+    "title": "Machine Learning / Data Scientist",
+    "department": "Engineering",
+    "location": "Kirkland, Washington, United States",
+    "date": "2025-03-07",
+    "url": "https://job-boards.greenhouse.io/docugami/jobs/4016974003",
+    "source": "greenhouse",
+    "company": "Docugami"
+  },
+  {
+    "title": "Software Engineering Intern",
+    "department": "Engineering",
+    "location": "Kirkland, Washington, United States",
+    "date": "2025-03-07",
+    "url": "https://job-boards.greenhouse.io/docugami/jobs/4014838003",
+    "source": "greenhouse",
+    "company": "Docugami"
+  },
+  {
+    "title": "Administrative Business Partner",
+    "location": "San Francisco, CA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4554963008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "AI Infrastructure Accounting Lead",
+    "location": "San Francisco, CA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4756214008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Android Engineer, Product",
+    "department": "Engineering",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4899511008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Anthropic Fellows Program Lead, Alignment Science",
+    "department": "People/HR",
+    "location": "San Francisco, CA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4888400008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Application Security Engineer",
+    "department": "Engineering",
+    "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4502508008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Application Security Engineering Manager",
+    "department": "Engineering",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "date": "2025-09-12",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4562813008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Associate Solutions Architect, Claude Code",
+    "location": "New York City, NY; San Francisco, CA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4898568008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Audit and Compliance",
+    "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4411328008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Audit and Compliance",
+    "location": "Dublin, IE",
+    "date": "2025-09-09",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4906732008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "B2B Growth Marketing Lead",
+    "department": "Marketing",
+    "location": "San Francisco, CA | New York City, NY",
+    "date": "2025-09-12",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4675700008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Business Development Representative, APJ",
+    "department": "Product",
+    "location": "Tokyo, Japan",
+    "date": "2025-09-09",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4897301008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Capacity Engineer, Compute",
+    "department": "Engineering",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4801218008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Channel Account Manager, SI & Reseller",
+    "location": "Tokyo, Japan",
+    "date": "2025-09-12",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4919879008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Cloud GTM Partnerships Lead, APJ",
+    "location": "Tokyo, Japan",
+    "date": "2025-09-09",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4803982008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Corporate Accountant, Payroll",
+    "location": "San Francisco, CA",
+    "date": "2025-09-05",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4903531008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Customer Success: AI Success Architect (API)",
+    "location": "San Francisco, CA | New York City, NY",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4464871008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Data Operations Manager, Horizons",
+    "department": "Engineering",
+    "location": "San Francisco, CA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4747479008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Data Scientist, API",
+    "department": "Engineering",
+    "location": "San Francisco, CA",
+    "date": "2025-09-11",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4915058008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Data Scientist, Capacity Efficiency",
+    "department": "Engineering",
+    "location": "San Francisco, CA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4873657008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Data Scientist, Claude Code",
+    "department": "Engineering",
+    "location": "San Francisco, CA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4826091008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Data Scientist, Platform (Reliability/Latency/Inference)",
+    "department": "Engineering",
+    "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4801333008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Detection and Response Engineering Manager",
+    "department": "Engineering",
+    "location": "San Francisco, CA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4806060008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Employment Counsel",
+    "location": "San Francisco, CA | New York City, NY",
+    "date": "2025-09-15",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4915364008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Engineering Manager, AI Reliability Engineering",
+    "department": "Engineering",
+    "location": "Dublin, IE",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4876527008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Engineering Manager, API Product (Several API Teams Hiring)",
+    "department": "Engineering",
+    "location": "San Francisco, CA",
+    "date": "2025-09-15",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4721383008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Engineering Manager, Claude Code",
+    "department": "Engineering",
+    "location": "New York City, NY; San Francisco, CA; Seattle, WA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4738189008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Engineering Manager, Cloud Inference",
+    "department": "Engineering",
+    "location": "San Francisco, CA | New York City, NY",
+    "date": "2025-09-11",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4915056008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Engineering Manager, Cloud Security",
+    "department": "Engineering",
+    "location": "San Francisco, CA | Seattle, WA; Seattle, WA",
+    "date": "2025-09-11",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4897424008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Engineering Manager, Frontier Prototyping",
+    "department": "Engineering",
+    "location": "San Francisco, CA | New York City, NY",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4811414008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Engineering Manager, Inference",
+    "department": "Engineering",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4741102008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Engineering Manager, ML Acceleration",
+    "department": "Engineering",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4741104008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Engineering Manager, Product Platform & Accounts Platform",
+    "department": "Engineering",
+    "location": "New York City, NY; Seattle, WA",
+    "date": "2025-09-12",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4889396008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Engineering Manager, Public Sector",
+    "department": "Engineering",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4903385008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Enterprise Account Executive, Digital Native Business",
+    "location": "London, UK",
+    "date": "2025-09-09",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4881466008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Enterprise Account Executive, Digital Native Business",
+    "location": "San Francisco, CA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4493001008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Enterprise Account Executive, EMEA Industries (Healthcare & Life Sciences)",
+    "location": "London, UK",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4677205008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Enterprise Account Executive, Federal Civilian Sales",
+    "location": "Washington, DC",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4803859008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Enterprise Account Executive, Financial Services",
+    "location": "London, UK",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4881468008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Enterprise Account Executive, Industries",
+    "location": "San Francisco, CA | New York City, NY",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4493035008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Enterprise Account Executive, Industries (Healthcare & Life Sciences)",
+    "location": "San Francisco, CA | New York City, NY",
+    "date": "2025-09-15",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4629246008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Enterprise Account Executive, Industries (Higher Education)",
+    "location": "San Francisco, CA | New York City, NY",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4526705008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Enterprise Account Executive, Japan",
+    "location": "Tokyo, Japan",
+    "date": "2025-09-09",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4798695008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "[Expression of Interest] Research Engineer, Reward Models",
+    "department": "Engineering",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "date": "2025-09-10",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4613599008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "[Expression of Interest] Research Scientist/Engineer, Alignment Finetuning",
+    "department": "Engineering",
+    "location": "San Francisco, CA",
+    "date": "2025-09-10",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4520279008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "[Expression of Interest] Research Scientist/Engineer, Honesty",
+    "department": "Engineering",
+    "location": "New York City, NY; San Francisco, CA",
+    "date": "2025-09-10",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4532887008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "External Affairs, Japan",
+    "location": "Tokyo, Japan",
+    "date": "2025-09-09",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4914303008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Finance Analytics, Product & Compute",
+    "department": "Product",
+    "location": "San Francisco, CA | New York City, NY",
+    "date": "2025-09-10",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4914369008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Finance & Strategy Lead, APAC",
+    "location": "Tokyo, Japan",
+    "date": "2025-09-14",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4903965008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Finance & Strategy Lead, EMEA",
+    "location": "Dublin, IE",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4676168008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Finance Systems Engineer",
+    "department": "Engineering",
+    "location": "San Francisco, CA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4825724008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Finance Systems, Finance & Strategy",
+    "location": "San Francisco, CA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4821968008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Finance Systems PMO Lead",
+    "department": "Product",
+    "location": "San Francisco, CA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4814670008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Finance Systems, QTC Program Manager",
+    "location": "San Francisco, CA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4883264008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Finance Variable Compensation Lead",
+    "location": "San Francisco, CA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4831485008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Financial Reporting Lead",
+    "location": "San Francisco, CA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4874194008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Global Onboarding Program Manager",
+    "location": "San Francisco, CA",
+    "date": "2025-09-11",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4914352008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Global Senior Equity Program Manager",
+    "location": "San Francisco, CA | Seattle, WA",
+    "date": "2025-09-05",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4890845008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Google Cloud GTM Partnership, Enterprise",
+    "location": "San Francisco, CA",
+    "date": "2025-09-09",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4776171008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "GTM Partner Enablement",
+    "location": "San Francisco, CA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4895169008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "GTM Recruiter, APAC",
+    "department": "People/HR",
+    "location": "Tokyo, Japan",
+    "date": "2025-09-09",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4831327008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "GTM Strategy and Operations, Customer Success",
+    "location": "San Francisco, CA | New York City, NY",
+    "date": "2025-09-15",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4865298008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "GTM Strategy & Operations",
+    "location": "San Francisco, CA | New York City, NY",
+    "date": "2025-09-04",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4894935008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Head of Corporate Communications",
+    "location": "San Francisco, CA, New York City, NY",
+    "date": "2025-09-12",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4707330008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Head of Developer Relations",
+    "location": "San Francisco, CA | New York City, NY",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4781798008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Head of Partner Success",
+    "location": "San Francisco, CA; San Francisco, CA | New York City, NY | Seattle, WA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4748190008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Head of Transfer Pricing",
+    "location": "San Francisco, CA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4825592008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Immigration Strategy Program Manager",
+    "location": "San Francisco, CA | New York City, NY",
+    "date": "2025-09-15",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4794191008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Infrastructure Accounting",
+    "location": "San Francisco, CA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4895774008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Insider Risk Investigator",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4856513008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Internal Communications Manager - Legal, People & Finance",
+    "department": "People/HR",
+    "location": "San Francisco, CA",
+    "date": "2025-09-08",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4673061008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Internal Communications Manager, Research & Policy",
+    "location": "San Francisco, CA",
+    "date": "2025-09-05",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4677688008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "International Revenue Accounting Manager",
+    "location": "Dublin, IE",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4895846008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "IT Engineering - Corporate Network Engineer",
+    "department": "Engineering",
+    "location": "San Francisco, CA",
+    "date": "2025-09-10",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4879674008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "IT Support Engineer",
+    "department": "Engineering",
+    "location": "San Francisco, CA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4802076008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Lead Product Manager, Research",
+    "department": "Product",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4684257008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Machine Learning Engineer, Safeguards",
+    "department": "Engineering",
+    "location": "San Francisco, CA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4461625008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Machine Learning Systems Engineer, Encodings and Tokenization",
+    "department": "Engineering",
+    "location": "San Francisco, CA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4579552008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Machine Learning Systems Engineer, Research Tools",
+    "department": "Engineering",
+    "location": "San Francisco, CA | New York City, NY",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4579550008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Machine Learning Systems Engineer, RL Engineering",
+    "department": "Engineering",
+    "location": "San Francisco, CA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4577144008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Machine Learning Systems Engineer, Safeguards Research",
+    "department": "Engineering",
+    "location": "San Francisco, CA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4613882008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Manager, Account Executive - Startups",
+    "location": "San Francisco, CA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4880880008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Manager, Enterprise Account Executive - Digital Native Sales",
+    "location": "San Francisco, CA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4886293008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Manager of Solutions Architecture, Applied AI",
+    "location": "San Francisco, CA | New York City, NY",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4819732008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Manager, Recruiting Coordination",
+    "department": "People/HR",
+    "location": "San Francisco, CA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4829844008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Manager, Sales Development",
+    "department": "Product",
+    "location": "San Francisco, CA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4884644008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Manager, Solutions Architecture",
+    "location": "London, UK",
+    "date": "2025-09-15",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4886697008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Manager, Technical Success (API)",
+    "location": "San Francisco, CA",
+    "date": "2025-09-15",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4914907008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Marketing Insights Research Manager",
+    "department": "Marketing",
+    "location": "San Francisco, CA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4886736008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "ML Infrastructure Engineer, Safeguards",
+    "department": "Engineering",
+    "location": "San Francisco, CA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4778843008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "People Partner, G&A",
+    "department": "People/HR",
+    "location": "San Francisco, CA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4897034008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "People Partner, Product & Core Tech",
+    "department": "People/HR",
+    "location": "San Francisco, CA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4895395008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Performance Engineer",
+    "department": "Engineering",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4020350008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Principal Capacity Engineer, Compute",
+    "department": "Engineering",
+    "location": "San Francisco, CA | Seattle, WA",
+    "date": "2025-09-05",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4904775008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Procurement Operations Business Partner, Compute Infrastructure",
+    "location": "San Francisco, CA",
+    "date": "2025-09-14",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4900975008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Procurement Operations Business Partner, R&D",
+    "location": "San Francisco, CA",
+    "date": "2025-09-13",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4910806008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Product Designer, Enterprise",
+    "department": "Product",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4780837008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Product Engineer, Applied AI",
+    "department": "Engineering",
+    "location": "Tokyo, Japan",
+    "date": "2025-09-09",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4830207008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Product Manager, API",
+    "department": "Product",
+    "location": "San Francisco, CA | New York City, NY",
+    "date": "2025-09-10",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4914176008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Product Manager, B2B Growth",
+    "department": "Marketing",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4887900008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Product Manager, Claude Code (Enterprise)",
+    "department": "Product",
+    "location": "San Francisco, CA | Seattle, WA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4858247008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Product Manager, Claude Code (SDK)",
+    "department": "Product",
+    "location": "San Francisco, CA | Seattle, WA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4858249008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Product Manager, Research",
+    "department": "Product",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4807590008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Product Support Specialist (Ireland, Contract)",
+    "department": "Product",
+    "location": "Dublin, IE",
+    "date": "2025-09-04",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4898706008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Product Support Specialist (UK, Contract)",
+    "department": "Product",
+    "location": "London, UK",
+    "date": "2025-09-04",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4898964008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Program Manager, People Products",
+    "department": "People/HR",
+    "location": "San Francisco, CA",
+    "date": "2025-09-05",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4866443008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Recruiter, AI Research",
+    "department": "People/HR",
+    "location": "San Francisco, CA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4604015008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Recruiting Coordinator [contract]",
+    "department": "People/HR",
+    "location": "Remote-Friendly, United States",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4407096008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Recruiting Data Analytics",
+    "department": "Engineering",
+    "location": "San Francisco, CA",
+    "date": "2025-09-08",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4886415008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Regulatory Operations Specialist",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4552119008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Research Engineer, CLIO",
+    "department": "Engineering",
+    "location": "San Francisco, CA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4816634008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Research Engineer, Interpretability",
+    "department": "Engineering",
+    "location": "San Francisco, CA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4020305008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Research Engineer, Model Performance & Quality",
+    "department": "Engineering",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "date": "2025-09-15",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4825872008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Research Engineer, Pre-training",
+    "department": "Engineering",
+    "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4616971008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Research Engineer, Production Model Post Training",
+    "department": "Engineering",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "date": "2025-09-15",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4613592008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Research Engineer / Research Scientist, Multimodal",
+    "department": "Engineering",
+    "location": "London, UK",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4629430008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Research Engineer / Research Scientist, Pre-training",
+    "department": "Engineering",
+    "location": "Z\u00fcrich, CH",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4799425008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Research Engineer / Scientist, Alignment Science",
+    "department": "Engineering",
+    "location": "San Francisco, CA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4631822008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Research Engineer / Scientist, Alignment Science, London",
+    "department": "Engineering",
+    "location": "London, UK",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4610158008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Research Engineer / Scientist, Model Welfare",
+    "department": "Engineering",
+    "location": "San Francisco, CA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4812169008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Research Engineer / Scientist, Tool Use",
+    "department": "Engineering",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "date": "2025-09-11",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4825989008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Research Engineer, Tokens (Pre-training)",
+    "department": "Engineering",
+    "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | New York City, NY",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4516810008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Research Manager, Interpretability",
+    "location": "San Francisco, CA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4009173008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Research Scientist, Interpretability",
+    "location": "San Francisco, CA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4020159008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Research Scientist / Research Engineer, Pre-training",
+    "department": "Engineering",
+    "location": "London, UK",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4681526008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Research Scientist, Tokens (Multimodal)",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4628787008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Revenue Accounting",
+    "location": "San Francisco, CA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4887175008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Revenue Operations, Quote-to-Cash Lead",
+    "location": "San Francisco, CA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4873436008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Security Engineer: Detection and Response",
+    "department": "Engineering",
+    "location": "London, UK",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4596677008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Security Engineer: Detection and Response",
+    "department": "Engineering",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA; Washington, DC",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4595465008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Security Risk Analyst",
+    "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4515484008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Security Software Engineer: Detection Platform Infrastructure",
+    "department": "Engineering",
+    "location": "San Francisco, CA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4595463008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Security Software Engineer: Detection Platform (Insider Risk)",
+    "department": "Engineering",
+    "location": "San Francisco, CA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4740845008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Senior Alliance Manager, Deloitte",
+    "location": "San Francisco, CA; San Francisco, CA | New York City, NY | Seattle, WA",
+    "date": "2025-09-15",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4747937008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Senior Capacity Planner",
+    "location": "San Francisco, CA | Seattle, WA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4904958008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Senior Software Engineer, Search",
+    "department": "Engineering",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4738780008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Senior Software Security Engineer",
+    "department": "Engineering",
+    "location": "San Francisco, CA | New York City, NY",
+    "date": "2025-09-11",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4887959008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Senior Software Security Engineer",
+    "department": "Engineering",
+    "location": "London, UK",
+    "date": "2025-09-12",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4019963008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Senior / Staff Engineer, Inference",
+    "department": "Engineering",
+    "location": "New York City, NY; New York City, NY | Seattle, WA; San Francisco, CA | New York City, NY | Seattle, WA",
+    "date": "2025-09-12",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4609502008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Software Engineer, AI Reliability Engineering",
+    "department": "Engineering",
+    "location": "Dublin, IE",
+    "date": "2025-09-04",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4608196008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Software Engineer, Business Technology",
+    "department": "Engineering",
+    "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
+    "date": "2025-09-10",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4554982008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Software Engineer, Claude Code",
+    "department": "Engineering",
+    "location": "San Francisco, CA | Seattle, WA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4816199008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Software Engineer, Core Infrastructure",
+    "department": "Engineering",
+    "location": "London, UK",
+    "date": "2025-09-11",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4915842008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Software Engineer, Data Intelligence",
+    "department": "Engineering",
+    "location": "New York City, NY",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4797724008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Software Engineer, Employee Acceleration Tools",
+    "department": "Engineering",
+    "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA",
+    "date": "2025-09-10",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4554984008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Software Engineer, Enterprise",
+    "department": "Engineering",
+    "location": "San Francisco, CA | New York City, NY",
+    "date": "2025-09-15",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4920215008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Software Engineer, Enterprise",
+    "department": "Engineering",
+    "location": "San Francisco, CA | New York City, NY",
+    "date": "2025-09-12",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4667572008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Software Engineer, Growth",
+    "department": "Engineering",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "date": "2025-09-12",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4141519008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Software Engineer, Inference",
+    "department": "Engineering",
+    "location": "Dublin, IE",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4641822008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Software Engineer, Infrastructure (All Levels)",
+    "department": "Engineering",
+    "location": "San Francisco, CA, New York City, NY, Seattle, WA",
+    "date": "2025-09-10",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4632118008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Software Engineer, Public Sector",
+    "department": "Engineering",
+    "location": "San Francisco, CA | New York City, NY | Washington, DC",
+    "date": "2025-09-12",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4902636008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Software Engineer, Safeguards",
+    "department": "Engineering",
+    "location": "San Francisco, CA | New York City, NY",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4033986008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Solutions Architect, Applied AI",
+    "location": "London, UK",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4819502008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Solutions Architect, Applied AI",
+    "location": "Tokyo, Japan",
+    "date": "2025-09-09",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4858547008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Solutions Architect, Applied AI",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4461444008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Staff Infrastructure Engineer, Discovery Team",
+    "department": "Engineering",
+    "location": "San Francisco, CA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4669581008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Staff Research Engineer, Discovery Team",
+    "department": "Engineering",
+    "location": "San Francisco, CA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4593216008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Staff Security Engineer, Container & VM Security",
+    "department": "Engineering",
+    "location": "San Francisco, CA | New York City, NY",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4807626008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Staff Software Engineer, API Product (Several Teams Hiring)",
+    "department": "Engineering",
+    "location": "San Francisco, CA",
+    "date": "2025-09-12",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4561282008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Staff Software Engineer, Databases",
+    "department": "Engineering",
+    "location": "San Francisco, CA",
+    "date": "2025-09-10",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4891180008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Staff Software Engineer, Platform",
+    "department": "Engineering",
+    "location": "San Francisco, CA | New York City, NY",
+    "date": "2025-09-10",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4549507008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Staff Software Engineer, Privacy Infrastructure",
+    "department": "Engineering",
+    "location": "San Francisco, CA | Seattle, WA",
+    "date": "2025-09-10",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4896265008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Staff Systems Engineer, Agents Infrastructure",
+    "department": "Engineering",
+    "location": "San Francisco, CA | New York City, NY",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4807607008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Startup Account Executive",
+    "location": "San Francisco, CA | New York City, NY",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4461450008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Startup Account Executive, Hebrew",
+    "location": "London, UK",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4535292008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Startup Account Manager",
+    "location": "San Francisco, CA | New York City, NY",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4423394008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Strategic Account Executive, Digital Native Business",
+    "location": "San Francisco, CA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4803880008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Strategic Account Executive, Financial Services",
+    "location": "San Francisco, CA | New York City, NY",
+    "date": "2025-09-10",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4809968008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Tax Operations, Provision, and Compliance Lead",
+    "location": "San Francisco, CA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4508956008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Tech Lead Manager, Safeguards ML Infrastructure",
+    "department": "Engineering",
+    "location": "San Francisco, CA",
+    "date": "2025-09-12",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4778852008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Technical Documentation & Content Engineer, Claude Code",
+    "department": "Engineering",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4829381008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Technical Program Manager, API",
+    "location": "San Francisco, CA | New York City, NY",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4792697008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Technical Program Manager, Compute",
+    "location": "San Francisco, CA | Seattle, WA",
+    "date": "2025-09-15",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4798693008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Technical Program Manager, Compute Partnerships",
+    "location": "San Francisco, CA",
+    "date": "2025-09-15",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4892952008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Technical Program Manager, Inference",
+    "location": "San Francisco, CA | Seattle, WA",
+    "date": "2025-09-08",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4913784008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Technical Revenue Accounting",
+    "location": "San Francisco, CA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4823376008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Technical Revenue Accounting - Seattle",
+    "location": "Seattle, WA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4893296008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Technical Sourcer",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4790445008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Technical Threat Investigator, Safeguards",
+    "department": "People/HR",
+    "location": "San Francisco, CA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4896342008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Technical Threat Investigator, Safeguards (CBRN)",
+    "department": "People/HR",
+    "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4740637008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "TPU Kernel Engineer",
+    "department": "Engineering",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4720576008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  },
+  {
+    "title": "Workday Business Systems Analyst",
+    "location": "San Francisco, CA | Seattle, WA",
+    "date": "2025-09-03",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4680272008",
+    "source": "greenhouse",
+    "company": "Anthropic"
+  }
+]
